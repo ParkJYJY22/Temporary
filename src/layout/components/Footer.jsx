@@ -11,6 +11,7 @@ const Footer = () => {
         <p>|</p>
         <button onClick={() => nav('/policy')}>개인정보 보호 정책</button>
       </div>
+
       <p className="copyright">Copy right ©S-CUL All rights reserved.</p>
     </div>
   );
